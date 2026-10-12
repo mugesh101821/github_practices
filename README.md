@@ -1,2 +1,4 @@
-# github_practices
-We are going to do some git practices  and learning git commands.
+# github\_practices
+
+I am mugesh from ANP-D5280
+
